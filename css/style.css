@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: bisque;
+    height: 100px;
+    overflow: hidden;
+}
+.logo{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    height: 100px;
+    width: 20%;
+    float: left;
+}
+.menu{
+    background-color: coral;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    height: 100px;
+    width: 80%;
+    float: right;
+}
+.header{
+    background-color: chartreuse;
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    height: 200px;
+    width: 100%;
+}
+.article{
+    overflow: hidden;
+}
+.left{
+    background-color: crimson;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    height: 500px;
+    width: 20%;
+    float: left;
+}
+.right{
+    background-color:chocolate;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    height: 500px;
+    width: 20%;
+    float: left;
+}
+.middle{
+    width: 60%;
+    height: 500px;
+    background-color: darkmagenta;
+    float: left;
+}
+.middle-top{
+    height: 30%;
+    background-color: darkslategray;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.middle-bottom{
+    height: 30%;
+    background-color: green;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.middle-middle{
+    height: 40%;
+    background-color: darkorchid;
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    overflow: hidden;
+}
+.middle-middle-left{
+    width: 50%;
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    background-color: slategrey;
+    color: antiquewhite;
+    height: 100%;
+}
+.middle-middle-right{
+    width: 50%;
+    float: right;
+    font-size: 20px;
+    text-align: center;
+    background-color: tomato;
+    color: crimson;
+    height: 100%;
+}
+.footer{
+    background-color: lime;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    height: 100px;
+}
